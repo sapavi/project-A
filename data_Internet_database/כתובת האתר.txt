@@ -1,0 +1,5 @@
+https://physionet.org/content/pulse-transit-time-ppg/1.1.0/
+
+פקודה להורדת המידע
+
+wget -r -N -c -np https://physionet.org/files/pulse-transit-time-ppg/1.1.0/
